@@ -6,6 +6,6 @@ La asignatura "Variable Compleja I" sumerge a los estudiantes en el fascinante m
 
 ## Licencia
 
-Parte del contenido de este repositorio ha sido creado por mí y parte creada por el profesor de la asignatura (Francisco Javier Merí de la Maza), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/VC1/blob/main/LICENSE)).
+Parte del contenido de este repositorio ha sido creado por mí y parte creada por el profesor de la asignatura (Francisco Javier Meri de la Maza), y se distribuye bajo una licencia Creative Commons Zero v1.0 Universal (más información [aquí](https://github.com/juanmaarg6/VC1/blob/main/LICENSE)).
 
 En caso de que detectes contenidos que violen los derechos de propiedad intelectual, por favor contacta conmigo en juanmaarg6@gmail.com.
